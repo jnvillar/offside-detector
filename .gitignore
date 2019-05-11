@@ -1,6 +1,5 @@
 .DS_Store
 *.m~
 *.pyc
-*output.mp4
+*output*.mp4
 *.weights
-*Offside-detector/videos/output-video.mp4
