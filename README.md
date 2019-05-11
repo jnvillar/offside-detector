@@ -17,16 +17,12 @@ $ python main.py --input_video quintero --attack_team river --defense_team boca 
 
 # Images
 
-
 Field detection
-
-![](https://imgur.com/uTL6kBK)
+![](https://i.imgur.com/uTL6kBK.jpg)
 
 Team Clasification
-
 ![](https://imgur.com/Z7WXduL)
 
 Offside line
-
-![](https://imgur.com/lwRo4p6)
+![](https://i.imgur.com/lwRo4p6.png)
 
