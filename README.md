@@ -15,14 +15,23 @@ $ pip install requirement.txt
 $ python main.py --input_video quintero --attack_team river --defense_team boca --vp_validation True
 ```
 
+# Colaborators
+
+[Axel Lew](https://github.com/ax-lew)
+[Matias Cadaval](https://github.com/mcadaval)
+
+
 # Images
 
-Field detection
+**Field detection**
+
 ![](https://i.imgur.com/uTL6kBK.jpg)
 
-Team Clasification
-![](https://imgur.com/Z7WXduL)
+**Team Clasification**
 
-Offside line
+![](https://i.imgur.com/Z7WXduL.jpg)
+
+**Offside line**
+
 ![](https://i.imgur.com/lwRo4p6.png)
 
