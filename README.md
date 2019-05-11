@@ -15,9 +15,10 @@ $ pip install requirement.txt
 $ python main.py --input_video quintero --attack_team river --defense_team boca --vp_validation True
 ```
 
-# Colaborators
+# Team
 
 [Axel Lew](https://github.com/ax-lew)
+[Juan Ignacio Noli Villar](https://github.com/jnvillar)
 [Matias Cadaval](https://github.com/mcadaval)
 
 
