@@ -14,7 +14,7 @@ ipaddress==1.0.22
 kiwisolver==1.0.1
 matplotlib==2.2.3
 nose==1.3.7
-numpy==1.16.3
+numpy==1.22.0
 opencv-contrib-python==4.0.1.24
 opencv-python==4.0.0.21
 pipreqs==0.4.9
